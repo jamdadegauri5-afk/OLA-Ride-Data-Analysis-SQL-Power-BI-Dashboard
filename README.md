@@ -7,3 +7,16 @@ SQL (Database creation, queries, views)
 Power BI (Dashboard & Visualization)
 
 Excel (Dataset source file)
+
+
+## SQL Work
+
+Created database and imported booking data
+Wrote queries to analyze:
+Successful bookings
+Cancellation trends
+Top 5 customers
+Revenue from completed rides
+Vehicle-wise average distance
+Driver & customer ratings
+Created views for structured reporting
