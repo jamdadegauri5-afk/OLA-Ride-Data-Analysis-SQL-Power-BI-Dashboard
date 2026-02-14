@@ -36,7 +36,7 @@ Created views for structured reporting
 
 
 ## SQL Queries 
-<a href=""></a>
+<a href="https://github.com/jamdadegauri5-afk/OLA-Ride-Data-Analysis-SQL-Power-BI-Dashboard/blob/main/ola%20database.sql">View SQL Queries</a>
 
 ## Dashboard Features
 
@@ -55,7 +55,7 @@ Ratings Analysis
 Ride Trends Over Time
 
 ## Dashboard
-<a href=""></a>
+<a href="">View Dashboard</a>
 
 ## Key Insights
 
