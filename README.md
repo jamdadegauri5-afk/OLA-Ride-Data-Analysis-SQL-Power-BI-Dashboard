@@ -1,9 +1,9 @@
 # OLA-Ride-Data-Analysis-SQL-Power-BI-Dashboard
 This project analyzes OLA ride booking data using SQL for create database, write analytical queries, and generate business insights, Power BI for interactive dashboard visualization.
 ## Data Set
-- <a href="https://github.com/jamdadegauri5-afk/Madhav-Store-Ecommarce/blob/main/Madhav%20Store%20Ecommarce%20DASHBOARD.pbix">Dataset</a>
+- <a href="https://github.com/jamdadegauri5-afk/OLA-Ride-Data-Analysis-SQL-Power-BI-Dashboard/blob/main/Bookings.csv">Dataset</a>
 ## Project PDF(Only Images
-<a href=""></a>
+- <a href=""></a>
 
 ## Tools Used
 SQL (Database creation, queries, views)
