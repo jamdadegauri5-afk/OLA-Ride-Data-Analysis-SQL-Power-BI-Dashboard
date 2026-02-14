@@ -71,4 +71,15 @@ Driver and customer ratings remain stable across vehicle types.
 
 This project demonstrates practical SQL query writing and business insight generation, along with Power BI dashboard development for data-driven decision-making.
 
+## Images
+Overall <img width="990" height="550" alt="1  overall" src="https://github.com/user-attachments/assets/7da25173-d4a7-4a4c-9178-9c2cd01f18e5" />
+Vehicle Type <img width="983" height="551" alt="2  Vahical Type" src="https://github.com/user-attachments/assets/16e1b41e-59e9-46b7-99b3-b06356ffe1f1" />
+Revenue <img width="972" height="560" alt="3  Revenue" src="https://github.com/user-attachments/assets/dca63885-4f86-4579-8347-ccfd1e6e0172" />
+cancellation <img width="978" height="558" alt="4  cancellation" src="https://github.com/user-attachments/assets/af01f10b-3db0-404d-936d-53a7fc82fe3b" />
+Rating <img width="958" height="538" alt="5  Ratings" src="https://github.com/user-attachments/assets/11c78682-3efb-401d-819e-30c54b5975f7" />
+
+
+
+
+
 
