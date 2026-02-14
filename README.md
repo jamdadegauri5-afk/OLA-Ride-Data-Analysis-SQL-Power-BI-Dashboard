@@ -55,7 +55,7 @@ Ratings Analysis
 Ride Trends Over Time
 
 ## Dashboard
-<a href="">View Dashboard</a>
+<a href="https://github.com/jamdadegauri5-afk/OLA-Ride-Data-Analysis-SQL-Power-BI-Dashboard/blob/main/ola%20dashboard.pbix">View Dashboard</a>
 
 ## Key Insights
 
