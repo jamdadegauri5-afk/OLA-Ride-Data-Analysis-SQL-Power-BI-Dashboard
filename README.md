@@ -1,7 +1,11 @@
 # OLA-Ride-Data-Analysis-SQL-Power-BI-Dashboard
 This project analyzes OLA ride booking data using SQL for create database, write analytical queries, and generate business insights, Power BI for interactive dashboard visualization.
-## Tools Used
+## Data Set
+<a href=""></a>
+## Project PDF(Only Images
+<a href=""></a>
 
+## Tools Used
 SQL (Database creation, queries, views)
 
 Power BI (Dashboard & Visualization)
@@ -32,7 +36,7 @@ Created views for structured reporting
 
 
 ## SQL Queries 
-<a href=""
+<a href=""></a>
 
 ## Dashboard Features
 
@@ -49,6 +53,9 @@ Payment Method Revenue Analysis
 Ratings Analysis
 
 Ride Trends Over Time
+
+## Dashboard
+<a href=""></a>
 
 ## Key Insights
 
