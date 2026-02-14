@@ -3,7 +3,7 @@ This project analyzes OLA ride booking data using SQL for create database, write
 ## Data Set
 - <a href="https://github.com/jamdadegauri5-afk/OLA-Ride-Data-Analysis-SQL-Power-BI-Dashboard/blob/main/Bookings.csv">Dataset</a>
 ## Project PDF(Only Images
-- <a href=""></a>
+- <a href="https://github.com/jamdadegauri5-afk/OLA-Ride-Data-Analysis-SQL-Power-BI-Dashboard/blob/main/Ola%20Data%20Analyst%20project%20pdf.docx">View PDF</a>
 
 ## Tools Used
 SQL (Database creation, queries, views)
