@@ -12,11 +12,56 @@ Excel (Dataset source file)
 ## SQL Work
 
 Created database and imported booking data
-Wrote queries to analyze:
+
+
+## Wrote queries to analyze:
+
 Successful bookings
+
 Cancellation trends
+
 Top 5 customers
+
 Revenue from completed rides
+
 Vehicle-wise average distance
+
 Driver & customer ratings
+
 Created views for structured reporting
+
+
+## SQL Queries 
+<a href=""
+
+## Dashboard Features
+
+Total Bookings & Revenue KPIs
+
+Booking Status Analysis
+
+Cancellation Analysis (Driver vs Customer)
+
+Vehicle Type Performance
+
+Payment Method Revenue Analysis
+
+Ratings Analysis
+
+Ride Trends Over Time
+
+## Key Insights
+
+Majority of bookings are successful but cancellation rate is noticeable.
+
+Revenue is mainly driven by completed rides.
+
+Few customers contribute higher ride frequency.
+
+Driver and customer ratings remain stable across vehicle types.
+
+## Conclusion
+
+This project demonstrates practical SQL query writing and business insight generation, along with Power BI dashboard development for data-driven decision-making.
+
+
